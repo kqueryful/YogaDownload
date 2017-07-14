@@ -137,3 +137,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Pycharm files
+.idea/modules.xml
+.idea/YogaDownload.iml
+.idea/workspace.xml
